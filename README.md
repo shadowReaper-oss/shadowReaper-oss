@@ -1,4 +1,14 @@
-## Hi there 👋
+# ⚡ shadowReaper | Cybersecurity & AI Engineer 🛠️
+
+> *"In the shadows of code, we find the vulnerabilities before the threats do."*
+
+---
+
+### 🛡️ About Me
+```text
+[+] Focus: Agentic AI, Penetration Testing & Threat Intelligence
+[+] Target: Building autonomous AI security tools & SOC analytics engines
+[+] Core Project: LOGINX Threat Analyzer (Streamlit + Gemini API)
 
 <!--
 **shadowReaper-oss/shadowReaper-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
